@@ -1,0 +1,9 @@
+[book]
+title = "Manual de Referência da Linguagem NeoBASIC"
+description = "O Livro NeoBASIC"
+language = "pt-BR"
+src = "src"
+authors = [
+  "Raul Bras",
+  "Contribuições da Comunidade NeoBASIC"
+]
