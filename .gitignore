@@ -4,6 +4,9 @@ target
 tmps
 .DS_Store
 
+# Obsidian files
+.obsidian
+
 ### IDE ###
 .idea
 .vscode
