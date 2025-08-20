@@ -1,0 +1,1 @@
+## Constantes e Valores Mágicos

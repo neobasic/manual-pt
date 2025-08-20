@@ -1,0 +1,9 @@
+[book]
+title = "Manual de Referência da 🔰 NeoBASIC 4GL"
+description = "A Linguagem de Programação NeoBASIC"
+language = "pt"
+src = "src"
+authors = [
+  "Raul Bras",
+  "Contribuições da Comunidade NeoBASIC"
+]
