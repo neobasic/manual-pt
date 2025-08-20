@@ -1,11 +1,16 @@
+# temporary files and cache directories
+.DS_Store
+.temp/
+
+# mdBook files
 book/
 *~
 target
 tmps
-.DS_Store
 
 # Obsidian files
 .obsidian
+.trash
 
 ### IDE ###
 .idea
