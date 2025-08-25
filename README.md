@@ -1,1 +1,1 @@
-# 🔰 Manual de Referência da Linguagem NeoBASIC
+# 🔰 Manual de Referência do Programador NeoBASIC
