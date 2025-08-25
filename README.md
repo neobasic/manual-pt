@@ -1,1 +1,1 @@
-# Manual de Referência da 🔰 NeoBASIC 4GL
+# 🔰 Manual de Referência da Linguagem NeoBASIC
